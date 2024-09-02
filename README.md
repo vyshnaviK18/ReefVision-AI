@@ -9,7 +9,7 @@ An advanced deep learning model using VGG19 and other DL models to accurately cl
 
 ## Overview
 
-**ReefVision-AI** is a deep learning project aimed at classifying coral reef images into two categories: `healthy_corals` and `bleached_corals`. The project leverages convolutional neural networks (CNNs) and the VGG19 architecture to analyze and classify images with a high degree of accuracy.
+**ReefVision-AI** is a deep learning project aimed at classifying coral reef images into two categories: `healthy_corals` and `bleached_corals`. The project uses convolutional neural networks (CNNs) and the VGG19 architecture to analyze and classify images with a `high degree of accuracy`.
 
 ## Key Features
 

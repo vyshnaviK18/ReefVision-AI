@@ -1,10 +1,11 @@
 # ReefVision-AI
 An advanced deep learning model using VGG19 and other DL models to accurately classify coral reef images, enhancing conservation efforts through AI.
 # Coral Reef Classification with ReefVision-AI
+![OIP (1)](https://github.com/user-attachments/assets/0392181b-5768-483d-9fa6-85a28389da63)
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x400" alt="Coral Reef Image" width="400" height="266">
-</p>
+
+![densenet](https://github.com/user-attachments/assets/901da235-ffb4-4b9d-8dd1-76b8c87362ad)
+
 
 ## Overview
 
@@ -40,6 +41,8 @@ An advanced deep learning model using VGG19 and other DL models to accurately cl
   - Visual comparison of model predictions with ground truth
   - Assesses performance qualitatively and identifies patterns or errors
 
+![dsds](https://github.com/user-attachments/assets/9cdca884-da7a-43b5-9049-aebe479b5840)
+
 
 ## Project Structure
 
@@ -57,9 +60,8 @@ The project is organized into the following components:
 
 
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x400" alt="Model Performance Visualization" width="400" height="266">
-</p>
+  ![res op 2](https://github.com/user-attachments/assets/aa11cc4e-6c96-4bac-9384-bc0ec22103de)
+
 
 ## License
 
@@ -68,5 +70,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - The VGG19 model weights are downloaded from TensorFlow's model repository.
-- The dataset used is sourced from .
+- The dataset used is sourced from https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification.
 
